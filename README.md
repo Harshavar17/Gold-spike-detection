@@ -59,6 +59,8 @@ The script plots gold price data and highlights detected spikes.
 
 ## Usage
 To use the script, define the target date and thresholds, then call the `analyze_date` function.
+
+
 ![image](https://github.com/user-attachments/assets/0bf078da-0677-46c1-a967-f2ebf513192b)
 ![image](https://github.com/user-attachments/assets/129cb1c4-a644-4504-bf7f-a782aeca3223)
 
